@@ -1,0 +1,11 @@
+{
+  "name": "Pushwoosh_demo",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "rogermelich <rogermelich@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rogermelich/Pushwoosh_demo",
+  "moduleType": []
+}
